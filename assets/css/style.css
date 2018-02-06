@@ -63,7 +63,7 @@ width:940px;
 
 .menu img{	
 -moz-border-image:url(../images/ramka-fill.png);
--webkit-border-image: url(images/ramka-fill.png); 
+-webkit-border-image: url(../images/ramka-fill.png); 
 border-style: solid;
 }
 
